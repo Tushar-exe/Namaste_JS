@@ -20,7 +20,7 @@ function getName(){
 
 // For example 2:
 
-console.log(x);   // this will print x is not defined will throw error when we execute because  in our code variable x is not present
+console.log(x);   // this will print x is not defined will throw error when we execute because  in our code variable x is not present moreover we have not created a memory for it in our code
 getName(); // this is used to call the function will print whatever written inside it
 console.log(getName); // this will print function just like the function
 function getName()
